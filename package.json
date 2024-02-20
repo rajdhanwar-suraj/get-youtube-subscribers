@@ -2,7 +2,7 @@
   "name": "get-youtube-subscribers",
   "version": "1.0.0",
   "private": true,
-  "homepage": "http://yuvraj33225.github.io/get-youtube-subscribers",
+  "homepage": "https://github.com/rajdhanwar-suraj/get-youtube-subscribers",
   "description": "RESTful API to get YouTube subscribers information.",
   "main": "index.js",
   "scripts": {
